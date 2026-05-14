@@ -24,9 +24,11 @@ Le jeu des Tours de Hanoi consiste à déplacer une pyramide de disques d'une to
 
 L'application utilise **Python Turtle Graphics** pour une représentation visuelle intuitive :
 
-![Tours de Hanoi - Saisie du départ](assets/hanoi_interface_1.png)
+<img width="948" height="822" alt="Hanoi1" src="https://github.com/user-attachments/assets/9b5e8c95-a04c-4e2a-a9da-556cea9cc2a1" />
 
-![Tours de Hanoi - Plateau de jeu](assets/hanoi_interface_2.png)
+<img width="825" height="390" alt="hanoi2" src="https://github.com/user-attachments/assets/97f173af-18a2-4356-ade0-841c92277082" />
+
+
 
 ## 🏗️ Architecture et fonctionnalités
 
